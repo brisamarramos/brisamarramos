@@ -462,3 +462,17 @@ git commit
 git push
 git push --set-upstream origin main
 git init
+git add .
+git commit -m "Again"
+git remote add origin https://github.com/brisamarramos/brisamarramos.git
+git push origin main
+git pull
+git branch --set-upstream-to=origin/main main
+git pull --allow-unrelated-histories
+git commit
+git pull
+git push origin main
+clang++ -std=c++17 main.cc -o main
+./main
+ls
+git add mainer.cc
