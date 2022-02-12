@@ -300,3 +300,65 @@ git push
 git push --set-upstream origin main
 git push -f origin master
 git status
+git add .
+git status
+git add probby.cc
+git add lab-ex-O1-brisamarramos
+cd prob02
+cd prob01
+clang++ -std=c++17 main.cc -o main
+./main
+git status
+clang++ -std=c++17 main.cc -o main
+./main
+git comitt
+git commit
+git config --global user.email "brisamarramos@csu.fullerton.edu"
+git config --global user.name "brisamar"
+git commit
+git push
+git add main.cc
+git commit
+git add main.cc
+git commit
+git push
+git push --set-upstream origin main
+git pull
+git remote add origin https://github.com/brisamarramos/Lab-2.git
+git branch -M main
+git add main.cc
+git commit
+To clang++ -std=c++17 main.cc -o main
+clang++ -std=c++17 main.cc -o main
+./main
+clang++ -std=c++17 main.cc -o main
+./main
+clang++ -std=c++17 main.cc -o main
+./main
+clang ++ -std=c++17 main.cc -o main
+clang++ -std=c++17 main.cc -o main
+./main
+clang++ -std=c++17 main.cc -o main
+./main
+make all
+make format
+make unit
+git add main.cc
+git commit
+git push
+git push --set-upstream origin main
+git remote set-url origin https://github.com/brisamarramos/brisamarramos
+gitpush
+git remote add origin https://github.com/brisamarramos/brisamarramos/Lab2.git
+git add main.cc
+git commit
+git commit -m "Finished Lab1" 
+git push
+git push --set-upstream origin main
+git push
+git push --set-upstream origin main
+git fetch origin master
+git fetch
+git push -f origin master
+git pull remotename master:dev
+git pull brisamarramos master:dev
