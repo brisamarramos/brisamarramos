@@ -457,3 +457,8 @@ git add repo
 git status
 git add .bash_history
 git status
+git add .
+git commit
+git push
+git push --set-upstream origin main
+git init
