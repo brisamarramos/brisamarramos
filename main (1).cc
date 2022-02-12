@@ -1,11 +1,3 @@
-<details>
-<summary>Show possible answer</summary>
-<p>
-
-</p>
-<p>
-
-
 #include <iostream>
 #include <string>
 
@@ -48,5 +40,3 @@ int main() {
 }
 
 
-</p>
-</details>
