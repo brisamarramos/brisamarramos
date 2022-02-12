@@ -22,7 +22,7 @@ int main() {
   totalcost = (tipPercentage+taxes+mealcost);
   std::cout << "Restaurant Bill \n";
   std::cout << "====================\n";
-  std::cout << "Subtotal: $" << mealcost << "\n";
+  std::cout << "Subtotal: $ " << mealcost << "\n";
   std::cout << "Taxes: $" << taxes << "\n";
   std::cout << "Tip: $" << tip << "\n";
   std::cout << "====================\n";
