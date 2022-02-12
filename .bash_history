@@ -279,3 +279,24 @@ git push
 git push --set-upstream origin main
 git push -u origin master
 git status
+git commit -a
+git push
+git push --set-upstream origin main
+git push
+git push -u origin --all
+git push --set-upstream origin main
+git push -u origin master
+git push
+git push --set-upstream origin main
+git remote set-url origin https://github.com/<brisamarramos>/<brisamarramos>
+git remote -v
+git push
+git remote set-url origin https://github.com/<brisamarramos>/<brisamarramos>
+git remote set-url origin https://github.com/brisamarramos/brisamarramos
+git psuh
+git push
+git remote set-url origin https://github.com/brisamarramos/brisamarramos
+git push
+git push --set-upstream origin main
+git push -f origin master
+git status
