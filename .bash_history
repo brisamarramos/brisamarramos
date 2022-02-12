@@ -432,3 +432,28 @@ remote-name
 ls
 ./pro
 ls
+git add .
+git commit
+git config --global user.email "brisamarramos@csu.fullerton.edu"
+git config --global use.name "brisamar"
+git commit
+git push
+git remote -v
+git branch -a
+git push --set-upstream origin master
+git push --set-upstream origin main
+git status
+git fetch origin/main
+git pull
+git pull --rebase origin main
+git commit
+git add .
+git status
+git add mainn
+git add mainn.cc
+ls
+git add main
+git add repo
+git status
+git add .bash_history
+git status
