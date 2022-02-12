@@ -1,4 +1,3 @@
-ls
 #include <iostream>
 #include <string>
 
@@ -39,3 +38,4 @@ int main() {
             << your_name << "\n";
   return 0;
 }
+

@@ -407,3 +407,28 @@ clang++ -std=c+17 main.cc -o main
 git add .
 clang++ -std=c++17 main.cc -o madlibs
 ./main
+git add .
+git commit
+git config  --global user.email "brisamarramos@gmail.com"
+git config --global user.name "Brisamar"
+git commit
+git push
+git push -u origin head 
+git push -u origin master
+git config --global push.default current
+git push
+git push -f origin FixForBug
+git pull origin master
+git remote add origin https://github.com/brisamarramos/brisamarramos.git
+git pull
+https://github.com/brisamarramos/brisamarramos.gi
+git branch --set-upstream-to=origin/<brisamarramos> main
+git push
+git pull
+git pull origin master
+remote-name
+./mainer
+./main
+ls
+./pro
+ls
