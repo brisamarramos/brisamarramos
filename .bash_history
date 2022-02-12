@@ -362,3 +362,48 @@ git fetch
 git push -f origin master
 git pull remotename master:dev
 git pull brisamarramos master:dev
+git add .
+git commit
+git push
+git remote set-url origin https://github.com/brisamarramos/brisamarramos
+git remote set-url origin https://github.com/brisamarramos/brisamarramos.git
+git push
+git push -u origin master
+git push -u origin --all
+git config --global push.default current
+git push
+git push -f origin master
+git commit -m "initial commit"
+git push origin master
+mkdir repo && cd repo
+git remote add origin /path/to/origin.git
+git add .
+git push
+touch README
+git add README
+git add .
+git push origin master --force
+clang++ -std=c++17 main.cc -o main
+./main
+clang++ -std=c++17 main.cc -o main
+./main
+clang++ -std=c++17 main.cc -o main
+./mainer
+ls
+clang++ -std=c++17 mainn.cc -o main
+clang++ -std=c++17 main.cc -o main
+./mainn
+./main
+4
+cd labex01-tuffy
+cd labex01-brisamarramos
+cd -lab-ex-01-brisamarramos
+clang++ -std=c++17 main.cc -o main
+./main
+./mainn
+clang++ -std=c++17 mainn.cc -o mainn
+ls
+clang++ -std=c+17 main.cc -o main
+git add .
+clang++ -std=c++17 main.cc -o madlibs
+./main
