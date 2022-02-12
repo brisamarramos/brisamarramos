@@ -263,3 +263,19 @@ git add.probby.cc
 git add probby.cc
 git add .
 git status
+git add .bash_history
+git status
+git add <probby.cc>
+ls
+git status
+git add main.cc
+git status
+git commit -m "hey"
+git config --global user.email "brisamarramos@csu.fullerton.edu"
+git config --global user.email "Brismaar"
+git commit -m "hey"
+git push origin master
+git push
+git push --set-upstream origin main
+git push -u origin master
+git status
